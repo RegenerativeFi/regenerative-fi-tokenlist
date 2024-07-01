@@ -18,6 +18,14 @@
     },
     {
       "chainId": 42220,
+      "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://www.coingecko.com/en/coins/tether"
+    },
+    {
+      "chainId": 42220,
       "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
       "name": "Staked CELO",
       "symbol": "stCELO",
