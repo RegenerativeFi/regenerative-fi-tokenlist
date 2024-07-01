@@ -10,6 +10,14 @@
     },
     {
       "chainId": 42220,
+      "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+      "chainId": 42220,
       "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
       "name": "Staked CELO",
       "symbol": "stCELO",
