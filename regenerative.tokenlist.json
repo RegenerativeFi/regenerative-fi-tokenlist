@@ -22,7 +22,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://www.coingecko.com/en/coins/tether"
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
     },
     {
       "chainId": 42220,
