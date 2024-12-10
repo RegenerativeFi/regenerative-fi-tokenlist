@@ -119,6 +119,38 @@
       "symbol": "NCT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24484/standard/NCT-removebg-preview.png?1696523665"
+    },
+    {
+      "chainId": 44787,
+      "address": "0xE036290F41c367AeC59aec5B69C2B72068C441f6",
+      "name": "Test CELO",
+      "symbol": "tCELO",
+      "decimals": 18,
+      "logoURI": "https://assets-global.website-files.com/652d421c1214a2eebd967f36/6537e85c4fe061f13f246111_6531707e952c3242e22b605e_Celo.png"
+    },
+    {
+      "chainId": 44787,
+      "address": "0x9A3a52f4462585c31025e2242C9b4074a9FB4a1f",
+      "name": "tUSDC",
+      "symbol": "tCELO",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
+      "chainId": 44787,
+      "address": "0x51f29e07c7cf53D2603e1A224E27b1c74E181a17",
+      "name": "Test Celo Dollar",
+      "symbol": "tcUSD",
+      "decimals": 18,
+      "logoURI": "https://celoscan.io/token/images/celodollar_32.png"
+    },
+    {
+      "chainId": 44787,
+      "address": "0x68DF333c5F5835A186AA8bCe4a704432006fDF49",
+      "name": "Test REGEN",
+      "symbol": "tREGEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.svg"
     }
   ]
 }
