@@ -132,8 +132,8 @@
       "chainId": 44787,
       "address": "0x9A3a52f4462585c31025e2242C9b4074a9FB4a1f",
       "name": "tUSDC",
-      "symbol": "tCELO",
-      "decimals": 6,
+      "symbol": "tUSDC",
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
     {
@@ -147,10 +147,10 @@
     {
       "chainId": 44787,
       "address": "0x68DF333c5F5835A186AA8bCe4a704432006fDF49",
-      "name": "Test REGEN",
-      "symbol": "tREGEN",
+      "name": "Test REFI",
+      "symbol": "tREFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.png"
+      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.svg"
     }
   ]
 }
