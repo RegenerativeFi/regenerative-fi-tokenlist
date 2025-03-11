@@ -121,6 +121,38 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24484/standard/NCT-removebg-preview.png?1696523665"
     },
     {
+      "chainId": 42220,
+      "address": "0x68DF333c5F5835A186AA8bCe4a704432006fDF49",
+      "name": "Test REFI",
+      "symbol": "tREFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.png"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xD1531Aa8F91f5Fd8D5D820CD5841e3880283D1Be",
+      "name": "Test CELO",
+      "symbol": "tCELO",
+      "decimals": 18,
+      "logoURI": "https://assets-global.website-files.com/652d421c1214a2eebd967f36/6537e85c4fe061f13f246111_6531707e952c3242e22b605e_Celo.png"
+    },
+    {
+      "chainId": 42220,
+      "address": "0xB08Dd0b53abD8fB842cDec75cc5064FDD74e99C7",
+      "name": "Test Celo Dollar",
+      "symbol": "tcUSD",
+      "decimals": 18,
+      "logoURI": "https://celoscan.io/token/images/celodollar_32.png"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x76C12F93ad8975609f95C13782fd8A0B4135e4c6",
+      "name": "Test USDC",
+      "symbol": "tUSDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+    },
+    {
       "chainId": 44787,
       "address": "0xE036290F41c367AeC59aec5B69C2B72068C441f6",
       "name": "Test CELO",
@@ -132,8 +164,8 @@
       "chainId": 44787,
       "address": "0x9A3a52f4462585c31025e2242C9b4074a9FB4a1f",
       "name": "tUSDC",
-      "symbol": "tCELO",
-      "decimals": 6,
+      "symbol": "tUSDC",
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
     },
     {
@@ -147,10 +179,10 @@
     {
       "chainId": 44787,
       "address": "0x68DF333c5F5835A186AA8bCe4a704432006fDF49",
-      "name": "Test REGEN",
-      "symbol": "tREGEN",
+      "name": "Test REFI",
+      "symbol": "tREFI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.svg"
+      "logoURI": "https://raw.githubusercontent.com/RegenerativeFi/regenerative-fi-tokenlist/main/REGEN.png"
     }
   ]
 }
